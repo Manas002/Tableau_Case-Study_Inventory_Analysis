@@ -1,5 +1,7 @@
 # Tableau_Case-Study_Inventory_Analysis
 
+**Tableau Link :** https://public.tableau.com/app/profile/manas.trivedi5249/vizzes
+
 **1- Exploratory Analysis**
 
 In this first chapter, we will prepare and explore your new dataset in Tableau to set things up for your inventory analysis. Of course, as with a real-world dataset, things might not be perfect, so we should keep your eyes open to check your data is in order and that all required variables for analysis are readily available.
