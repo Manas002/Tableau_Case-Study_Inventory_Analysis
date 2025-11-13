@@ -1,6 +1,6 @@
 # Tableau_Case-Study_Inventory_Analysis
 
-**Tableau Link :** https://public.tableau.com/app/profile/manas.trivedi5249/vizzes
+**Tableau Link :** [https://public.tableau.com/app/profile/manas.trivedi5249/vizzes](https://public.tableau.com/app/profile/manas.trivedi5249/viz/CaseStudy-InventoryAnalysisinTableau/InventoryAnalysis)
 
 **1- Exploratory Analysis**
 
